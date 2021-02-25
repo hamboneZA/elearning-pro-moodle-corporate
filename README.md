@@ -1,6 +1,6 @@
 # Moodle for Corporates
 
-This serves as a custom repo for cloning into a skeleton directory when creating new virtual servers in Cyber Panel. It's very much servicing my needs and may not be suitable for use in all envirnonments.
+This serves as a custom repo for cloning into a skeleton directory when creating new virtual servers in Cyber Panel. It's very much servicing our clients and may not be suitable for use in all envirnonments.
 
 ## Summary
 
@@ -15,3 +15,7 @@ If used at all, do so with caution as this is still very much a work in progress
 1. Custom certificate
 2. Level-up
 3. O365 plugin set
+
+# Who we are
+
+We're moodlers for life. Four South Africans spread over four continents do moodle. Visit https://elearning-pro.tech to contact us about hosting your company's moodle, for free.
