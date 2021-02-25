@@ -18,4 +18,4 @@ If used at all, do so with caution as this is still very much a work in progress
 
 # Who we are
 
-We're moodlers for life. Four South Africans spread over four continents do moodle. Visit https://elearning-pro.tech to contact us about hosting your company's moodle, for free.
+Our consulting service aims to ensure your LMS rollout is effortless, robust and enjoys ongoing utility. If you're intereasted in retaining our services your moodle hosting is on the house. No limits. Visit https://elearning-pro.tech for more information and to contact us.
