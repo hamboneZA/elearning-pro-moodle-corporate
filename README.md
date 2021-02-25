@@ -8,7 +8,7 @@ This fork includes some additional default plugins that are useful for corporate
 
 ## Usage
 
-If used at all, do so with caution as this is still very much a work in progress. Clone this repo instead of moodle source and install moodle as you normally would. if using </code>non-interactive.sh<code> to create virtual servers be sure to replace the repo fetched by skel.sh in your local version of those scripts.
+If used at all, do so with caution as this is still very much a work in progress. Clone this repo instead of moodle source and install moodle as you normally would. if using <code>non-interactive.sh</code> to create virtual servers be sure to replace the repo fetched by skel.sh in your local version of those scripts.
   
 ## Current addons / changes
 
