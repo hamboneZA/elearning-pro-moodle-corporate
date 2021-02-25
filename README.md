@@ -1,5 +1,4 @@
-# Moodle for Corporates
-
+# MOODLE CORPORATE
 This serves as a custom repo for cloning into a skeleton directory when creating new virtual servers in Cyber Panel. It's very much servicing our clients and may not be suitable for use in all envirnonments.
 
 ## Summary
